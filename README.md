@@ -10,7 +10,7 @@ and uploaded to `/mnt/sdcoard/0/Download/graphhopper/maps`
 
 ## GraphHopper libs
 
-Clone the latest (https://github.com/graphhopper/graphhopper)[graphhopper library project]
+Clone the latest [graphhopper library project](https://github.com/graphhopper/graphhopper)
 and build it with `mvn install`
 
 The local 1.0-SNAPSHOT version of graphhopper-tools will be used by the gradle build.
